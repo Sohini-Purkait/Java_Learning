@@ -1,6 +1,7 @@
 class operators{
     public static void main(String args[])
     {
+       //arithmatic operator
        int a = 1;
        int b = 2;
        int div = a / b;
@@ -12,7 +13,13 @@ class operators{
        System.out.println(num); //2
        System.out.println(++num); //3
        
-
+        //Comparison operator
+        // a == b
+        // a != b
+        // a < b
+        // a > b
+        // a <= b
+        // a >= b
        
     }    
 }
