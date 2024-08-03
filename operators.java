@@ -21,5 +21,22 @@ class operators{
         // a <= b
         // a >= b
        
+       //logical operators
+        // && || !
+
+        int x = 30;
+        int y = 40;
+        
+        if(x < 50 && y < 50)
+            System.out.println("Both less than 50");
+        if(x < 50 || y < 50)
+            System.out.println("Atleast one less than 50");
+
+        boolean isAdult = false;       //is adult
+        if(!isAdult)
+            System.out.println("is adult");
+        else
+            System.out.println("not adult");
+
     }    
 }
