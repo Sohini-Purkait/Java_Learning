@@ -13,7 +13,7 @@ public class switchCase{
                 break;
 
             default:
-                System.out.println("wed - sun");
+                System.out.println("wed - sun");               
        } 
     }    
 }
